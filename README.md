@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @valkiriaspell
 - 👀 I’m interested in programming, digital art, 3d modelating, video editing
 - 🌱 I’m currently learning to program 
-- 💞️ I’m looking to collaborate on any kind of original projects where i could be useful.
+- 💞️ I’m looking to collaborate on any kind of original projects where I could be useful.
 - 📫 How to reach me ... valsalerno93@gmail.com
 
 <!---
