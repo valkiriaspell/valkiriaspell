@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @valkiriaspell
-- 👀 I’m interested in programming, digital art, 3d modelating, video editing
-- 🌱 I’m currently learning to program 
-- 💞️ I’m looking to collaborate on any kind of original projects where I could be useful.
+- 👋 Hi, I’m @valkiriaspell, I am a digital designer and wev developer.
+- 👀 I’m interested in digital art, 3d modelating, video editing, web design. 
+- 🌱 I’m about to finish the full stack developer career at https://www.soyhenry.com/
+- 💞️ I’m looking to collaborate on any kind of original projects where I could be useful. Always hoping to learn more.
 - 📫 How to reach me ... valsalerno93@gmail.com
 
 <!---
