@@ -3,7 +3,7 @@
 - 👀 I’m interested in development, digital art, 3d modelating, video editing, web design. 
 - 🌱 I’m about to finish the full stack developer career at https://www.soyhenry.com/
 - 💞️ I’m looking to collaborate on any kind of original projects where I could be useful. Always hoping to learn more.
-- 📫 How to reach me ... valsalerno93@gmail.com
+- 📫 How to reach me ... valsalerno93@gmail.com  | https://www.linkedin.com/in/valkiria-salerno-9860a6164/
 
 <!---
 valkiriaspell/valkiriaspell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
